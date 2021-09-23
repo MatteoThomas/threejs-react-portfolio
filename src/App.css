@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+Canvas {
+  height: 100vh;
+  background-color: rgb(175, 143, 143);
+}
